@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=honyhaha&theme=synthwave&show_icons=true)](https://github.com/honyhaha/honyhaha)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honyhaha&layout=default&hide_border=true)](https://github.com/honyhaha/honyhaha)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honyhaha&layout=default&theme=synthwave&hide_border=ture)](https://github.com/honyhaha/honyhaha)
 
 
 <p align="center">
@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://github.com/honyhaha/honyhaha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honyhaha&hide_title=false&exclude_repo=null&langs_count=3&layout=default&hide_border=false&bg_color=1a1a1a&text_color=c9cacc&title_color=ffffff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honyhaha&hide_title=false&exclude_repo=null&langs_count=3&layout=default&hide_border=true&bg_color=1a1a1a&text_color=c9cacc&title_color=ffffff" />
 </a>
 </p>
 
