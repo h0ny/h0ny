@@ -5,24 +5,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honyhaha&layout=default&theme=synthwave&hide_border=true&hide_title=true&hide=javascript,html)](https://github.com/honyhaha/honyhaha)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=honyhaha&repo=echow&show_owner=true&theme=synthwave&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=honyhaha&repo=echow&show_owner=true&theme=synthwave&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
-
-<a href="https://github.com/honyhaha/honyhaha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=honyhaha&include_all_commits=true&custom_title=Valen's+GitHub+Stats&hide=contribs&show_icons=true&line_height=32&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=b32d00&bg_color=1a1a1a" />
-</a>
-
-<a href="https://github.com/honyhaha/honyhaha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honyhaha&hide_title=false&exclude_repo=null&langs_count=3&layout=default&hide_border=true&bg_color=1a1a1a&text_color=c9cacc&title_color=ffffff" />
-</a>
-</p>
-
-
-
-
-
+</p> -->
 
 <!--
 **honyhaha/honyhaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
