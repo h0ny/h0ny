@@ -6,7 +6,11 @@
 
 [![](https://count.getloli.com/get/@h0ny?theme=gelbooru)](https://github.com/honyhaha/honyhaha)
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=honyhaha&repo=echow&show_owner=true&theme=synthwave&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 
+
+---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=honyhaha&repo=echow&show_owner=true&theme=synthwave&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
 </p> -->
