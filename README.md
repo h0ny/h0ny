@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honyhaha&layout=default&theme=synthwave&hide_border=true)](https://github.com/honyhaha/honyhaha)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=honyhaha&repo=echow&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=honyhaha&repo=echow&show_owner=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="center">
