@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=honyhaha&theme=dark&show_icons=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=honyhaha&repo=github-readme-stats)](https://github.com/honyhaha/echow)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=honyhaha&repo=echow)](https://github.com/honyhaha/echow)
 
 <p align="center">
 
