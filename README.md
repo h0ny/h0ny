@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honyhaha&layout=default&theme=synthwave&hide_border=true&hide=javascript,html)](https://github.com/honyhaha/honyhaha)
 
-[![统计](https://count.getloli.com/get/@h0ny?theme=gelbooru)](https://github.com/honyhaha/honyhaha)
+[![](https://count.getloli.com/get/@h0ny?theme=gelbooru)](https://github.com/honyhaha/honyhaha)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=honyhaha&repo=echow&show_owner=true&theme=synthwave&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
