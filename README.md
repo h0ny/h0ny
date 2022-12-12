@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=honyhaha&theme=dark&show_icons=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=honyhaha&repo=github-readme-stats)](https://github.com/honyhaha/echow)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honyhaha)](https://github.com/honyhaha)
 <p align="center">
 </p>
 
