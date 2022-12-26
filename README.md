@@ -1,10 +1,15 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=honyhaha&theme=synthwave&show_icons=true&hide_border=true)](https://github.com/honyhaha/honyhaha)
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=honyhaha&theme=synthwave&show_icons=true&hide_border=true)](https://github.com/honyhaha/honyhaha) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honyhaha&layout=default&theme=synthwave&hide_border=true&hide=javascript,html)](https://github.com/honyhaha/honyhaha) | [![](https://count.getloli.com/get/@h0ny?theme=gelbooru)](https://github.com/honyhaha/honyhaha) |
+| ------------- | ------------- | ------------- |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honyhaha&layout=default&theme=synthwave&hide_border=true&hide=javascript,html)](https://github.com/honyhaha/honyhaha)
 
-[![](https://count.getloli.com/get/@h0ny?theme=gelbooru)](https://github.com/honyhaha/honyhaha)
+
+
+
+
+
+
 
 <!-- 
 
