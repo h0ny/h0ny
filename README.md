@@ -1,26 +1,13 @@
 ### Hi there 👋
 
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h0ny&theme=synthwave&show_icons=true&hide_border=true)](https://github.com/h0ny/h0ny) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h0ny&layout=default&theme=synthwave&hide_border=true&hide=javascript,html)](https://github.com/h0ny/h0ny) | 
-| ------------- | ------------- |
-
-
-
-
-
-
-
-
-
-<!-- 
-
----
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=h0ny&repo=echow&show_owner=true&theme=synthwave&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="center">
-</p> -->
+| [![h0ny's GitHub stats](https://github-readme-stats.vercel.app/api?username=h0ny&theme=synthwave&show_icons=true&hide_border=true&count_private=true&bg_color=00000000)](https://github.com/h0ny) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h0ny&theme=synthwave&hide_border=true&hide=css,javascript,html&layout=donut&hide_title=true&bg_color=00000000)](https://github.com/h0ny) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <!--
+<p align="center">
+    <img src="">
+</p>
+
 **h0ny/h0ny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
