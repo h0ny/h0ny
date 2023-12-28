@@ -3,6 +3,12 @@
 | [![h0ny's GitHub stats](https://github-readme-stats.vercel.app/api?username=h0ny&theme=synthwave&show_icons=true&hide_border=true&count_private=true&bg_color=00000000)](https://github.com/h0ny) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h0ny&theme=synthwave&hide_border=true&hide=css,javascript,html&layout=donut&hide_title=true&bg_color=00000000)](https://github.com/h0ny) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <!--
 <p align="center">
     <img src="">
